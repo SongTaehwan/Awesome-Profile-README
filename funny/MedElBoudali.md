@@ -1,5 +1,3 @@
-https://github.com/MedElBoudali
-
 <div align="left">
     <img width= "100%" height="400px" src='https://i.imgur.com/4U4BIBV.jpg' alt='meme'/>
 </div>
@@ -24,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://github.com/MedElBoudali
